@@ -9,3 +9,5 @@ Kafka streams to analyze and process the real time streams.
 
 Kafka stream will take order object from the topic. If the delivery type from the object is A, it will send that object to another topic called A or else B.
 ```
+
+<img width="1757" alt="Screenshot 2023-03-02 at 1 38 37 AM" src="https://user-images.githubusercontent.com/43849911/222254250-eaf60f5c-cda9-4717-9130-8a0bd4ac1048.png">
