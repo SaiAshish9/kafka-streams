@@ -18,3 +18,17 @@ Kafka stream will take order object from the topic. If the delivery type from th
 
 <img width="803" alt="Screenshot 2023-03-02 at 2 13 53 AM" src="https://user-images.githubusercontent.com/43849911/222260693-10824fee-ea8a-4ac2-be9a-48152403e6e6.png">
 
+```
+bin/kafka-console-consumer.sh --topic quickstart-events --from-beginning --bootstrap-server localhost:9092
+
+./kafka-topics.sh --bootstrap-server=localhost:9092 --list
+__consumer_offsets
+home-service
+quickstart-events
+takeaway-service
+user
+```
+
+<img width="834" alt="Screenshot 2023-03-02 at 2 41 17 AM" src="https://user-images.githubusercontent.com/43849911/222265921-daa8495b-21c8-4fb9-9ae1-fb2c072ee441.png">
+
+<img width="1791" alt="Screenshot 2023-03-02 at 2 09 30 AM" src="https://user-images.githubusercontent.com/43849911/222265970-4d68f41b-5c5e-4705-876e-e0021813c5cf.png">
