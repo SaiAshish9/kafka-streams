@@ -16,3 +16,4 @@ Kafka stream will take order object from the topic. If the delivery type from th
 
 <img width="1787" alt="Screenshot 2023-03-02 at 2 10 41 AM" src="https://user-images.githubusercontent.com/43849911/222260115-f117f74a-2eca-41d7-8a44-8b3196a981fa.png">
 
+<img width="803" alt="Screenshot 2023-03-02 at 2 13 53 AM" src="https://user-images.githubusercontent.com/43849911/222260693-10824fee-ea8a-4ac2-be9a-48152403e6e6.png">
