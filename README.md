@@ -18,7 +18,8 @@ Kafka stream will take order object from the topic. If the delivery type from th
 
 
 ```
-bin/kafka-console-consumer.sh --topic quickstart-events --from-beginning --bootstrap-server localhost:9092
+bin/kafka-console-consumer.sh --topic quickstart-events --from-beginning 
+--bootstrap-server localhost:9092
 
 ./kafka-console-consumer.sh --bootstrap-server=localhost:9092 --topic=takeaway-service
 {"item":"car","quantity":1,"deliveryType":"takeaway"}
