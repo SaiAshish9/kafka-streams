@@ -14,8 +14,6 @@ Kafka stream will take order object from the topic. If the delivery type from th
 
 <img width="1791" alt="Screenshot 2023-03-02 at 2 09 30 AM" src="https://user-images.githubusercontent.com/43849911/222260033-0dab46bb-9524-4c99-88aa-747fec784d82.png">
 
-<img width="1787" alt="Screenshot 2023-03-02 at 2 10 41 AM" src="https://user-images.githubusercontent.com/43849911/222260115-f117f74a-2eca-41d7-8a44-8b3196a981fa.png">
-
 
 ```
 bin/kafka-console-consumer.sh --topic quickstart-events --from-beginning 
